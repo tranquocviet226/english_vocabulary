@@ -39,3 +39,6 @@
 |further|Thêm nữa|||
 |arrange|Sắp xếp|||
 |wide|Rộng rãi|Something that has been widely used||
+|confident|Tin chắc|||
+|principle|Nguyên tắc|||
+|foundation|Nền tảng|||
