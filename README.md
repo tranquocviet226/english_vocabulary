@@ -21,3 +21,7 @@
 |narrow|Chật hẹp|A lot more narrow|Hẹp hơn rất nhiều|
 |straightforward|Đơn giản|||
 |stretch|Kéo dài|||
+|assemble|Lắp ráp, tập hợp|Website files are assemble on the server||
+|stands for|Viết tắt|HTML stands for Hyper Text Markup Language||
+|typically|Thường, tiêu biểu|The content inside is typically displayed in bold|Nội dung bên trong thường được hiển thị in đậm|
+|emphasized|Nhấn mạnh|The em tag is used to define emphasized text||
