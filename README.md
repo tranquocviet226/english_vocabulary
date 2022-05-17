@@ -29,3 +29,13 @@
 |occupies|Chiếm, nơi làm việc|Which occupies 100%  of the parent element's width||
 |stacked vertical|Xếp chồng theo chiều dọc|||
 |one after another|Lần lượt từng người một|||
+|laid|Đặt|The elements are laid out according to the source code in the HTML ||
+|overlap|Chồng chéo|In fact, it might even overlap them||
+|impact|Tác động, ảnh hưởng|||
+|surrounding|This elements do not be impacted by any surrounding elements|||
+|colon|Dấu hai chấm|||
+|adjacent|Liền kề|||
+|mandatory|Bắt buộc|||
+|further|Thêm nữa|||
+|arrange|Sắp xếp|||
+|wide|Rộng rãi|Something that has been widely used||
