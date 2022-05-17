@@ -25,3 +25,7 @@
 |stands for|Viết tắt|HTML stands for Hyper Text Markup Language||
 |typically|Thường, tiêu biểu|The content inside is typically displayed in bold|Nội dung bên trong thường được hiển thị in đậm|
 |emphasized|Nhấn mạnh|The em tag is used to define emphasized text||
+|combination|Phối hợp|Every color can be represented  by a combination of Red, Green and Blue||
+|occupies|Chiếm, nơi làm việc|Which occupies 100%  of the parent element's width||
+|stacked vertical|Xếp chồng theo chiều dọc|||
+|one after another|Lần lượt từng người một|||
