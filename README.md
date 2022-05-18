@@ -45,3 +45,6 @@
 |otherwise|Nếu không thì|||
 |terminology|Thuật ngữ|Let's talk a little bit about some important terminology||
 |dealing|Xử lý|||
+|theory|Lý thuyết|||
+|stuff|Thứ, chuyện|A lot of stuff||
+|envision|Hình dung|||
