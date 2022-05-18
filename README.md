@@ -32,7 +32,7 @@
 |laid|Đặt|The elements are laid out according to the source code in the HTML ||
 |overlap|Chồng chéo|In fact, it might even overlap them||
 |impact|Tác động, ảnh hưởng|||
-|surrounding|This elements do not be impacted by any surrounding elements|||
+|surrounding|Bao quanh|This elements do not be impacted by any surrounding elements||
 |colon|Dấu hai chấm|||
 |adjacent|Liền kề|||
 |mandatory|Bắt buộc|||
