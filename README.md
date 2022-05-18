@@ -42,3 +42,6 @@
 |confident|Tin chắc|||
 |principle|Nguyên tắc|||
 |foundation|Nền tảng|||
+|otherwise|Nếu không thì|||
+|terminology|Thuật ngữ|Let's talk a little bit about some important terminology||
+|dealing|Xử lý|||
