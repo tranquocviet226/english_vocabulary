@@ -6,7 +6,7 @@
 |slash| Gạch chéo|control slash||
 |universal|Phổ cập, tất cả, toàn thể|Universal selector||
 |certain|Chắn chắn, nhất định|a certain property applied to all elements|Một thuộc tính chắc chắn áp dụng cho tất cả phần tử|
-|inherited|Kế thừa|||
+|inherit|Kế thừa|||
 |imagine|Tưởng tượng|Now imagine that we wanted|Bây giờ hãy tưởng tượng điều mà bạn muốn|
 |quite|Khá|quite important||
 |involved|Liên quan|inheritance involved||
