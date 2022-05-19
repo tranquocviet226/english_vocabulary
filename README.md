@@ -48,3 +48,6 @@
 |theory|Lý thuyết|||
 |stuff|Thứ, chuyện|A lot of stuff||
 |envision|Hình dung|||
+|separate|Tách rời|||
+|recognize|Nhận ra|||
+|immediately|Ngay lập tức|||
