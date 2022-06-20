@@ -51,3 +51,6 @@
 |separate|Tách rời|||
 |recognize|Nhận ra|||
 |immediately|Ngay lập tức|||
+|wage|Tiền công|||
+|consolidate|Hợp nhất|||
+|adjust|Điều chỉnh|||
